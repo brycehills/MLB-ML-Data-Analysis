@@ -1,5 +1,4 @@
-# cs105-prj-phase3-data-boys
-cs105-prj-phase3-data-boys created by GitHub Classroom
+# cs105-project phase 3
 
 ## The Dataset and Problem:
 After starting our project and reading in our data set, we were not sure on exactly what we wanted to try to predict using ML. Once we read in the data and thought about it, we decided to go with predicting a team's season-long number of homeruns, since this is probably one of the most exciting stats surrounding the sport of baseball. After reading in our data, along with homeruns, we had 28 other features and over 3000 rows spanning years 1980 - 2019.
