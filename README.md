@@ -1,4 +1,4 @@
-# cs105-project phase 3
+# Data Anaylsis Methods - Final Project (Data Analysis using Linear Regression)
 
 ## The Dataset and Problem:
 * After starting our project and reading in our data set, we were not sure on exactly what we wanted to try to predict using ML.
@@ -15,6 +15,7 @@ including scatterplots, box plots, and a parallel coordinates plot.
 * Our histogram provides us with an evenly distributed bell-curve for the data on homeruns, with only a few outliers. 
 * And team data shows many more outliers in catagories like doubles, triples, and RBI's. 
 * It was interesting to find that there was almost no correlation between the team avg age and the number of homeruns hit.
+  
 ## Summary of Phase 3:
 * In phase 3, the machine learning models were contructed and ran with training and test data.
 * The test data used to predict a single teams season number of homeruns was one row.
