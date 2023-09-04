@@ -1,4 +1,5 @@
-# Data Anaylsis Methods - Final Project (Data Collection, Cleaning, and Analysis using Machine Learning Techniques)
+# Data Anaylsis Methods - Final Project 
+## (Data Collection, Cleaning, and Analysis using Machine Learning Techniques)
 
 ## The Dataset and Problem:
 * After starting our project and reading in our data set, we were not sure on exactly what we wanted to try to predict using ML.
